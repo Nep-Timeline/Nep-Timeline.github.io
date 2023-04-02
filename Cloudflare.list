@@ -13,7 +13,7 @@ IP-CIDR,104.16.0.0/13
 IP-CIDR,104.24.0.0/14
 IP-CIDR,172.64.0.0/13
 IP-CIDR,131.0.72.0/22
-# DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,cloudflare-quic.com
 DOMAIN-SUFFIX,cloudflare.com
