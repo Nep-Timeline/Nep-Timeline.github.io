@@ -14,7 +14,7 @@ dns:
   fake-ip-filter: # fake ip 白名单列表
      - '*.lan'
      - localhost.ptlogin2.qq.com
-  #use-hosts: true
+  use-hosts: true
   nameserver:
      - 223.5.5.5 # 阿里DNS
      - 180.76.76.76 # 百度DNS
@@ -41,3 +41,4 @@ dns:
       - 240.0.0.0/4,
       - 0.0.0.0/32
   # nameserver-policy: ~
+
